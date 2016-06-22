@@ -1,1 +1,3 @@
 test02
+editor = vimSD
+ss:wq
