@@ -1,0 +1,82 @@
+.myheadernav{
+	background-color: #E53831;
+	font-size: 15px;
+}
+.myBrand{
+	font-size: 30px;
+	padding-left: 80px;
+}
+.navbar-default .navbar-brand {
+    color: white;
+}
+.navbar-default .navbar-nav>li>a {
+    color: white;
+}
+.navbar-right {
+    float: right!important;
+    margin-right: 10px;
+}
+body{
+	background-color:#ffffcc;
+}
+.jumbotron {
+    padding: 30px 15px;
+    margin-bottom: 30px;
+    padding-left: 5%;
+	margin-left: 15%;
+	margin-right: 15%;
+    color: inherit;
+    background:url("../images/016.JPG") top center no-repeat;
+	background-size:100% 100%;
+    background-color: #eee;
+}
+.panel{
+	margin-left: 15%;
+	margin-right: 15%;
+	background-color: white;
+}
+.vote-question{
+	margin-left: 8%;
+}
+.panel-body .panel-text{
+	float: right!important;
+    margin-right: 10px;
+}
+.form-inline .form-control {
+	height: 36px;
+}
+
+.mybut{
+	margin-left: 230px;
+}
+.modal-dialog {
+    width: 400px;
+    margin: 60px auto;
+}
+
+label {
+    font-weight: 100;
+}
+.glyphicon {
+	color: #4b0082;
+}
+.form-horizontal .control-label {
+	float: left;
+	margin-left:30px;
+}
+.form-horizontal .controls {
+    margin-left: 100px;
+}
+.form-horizontal input{
+	display: inline-block;
+    margin-bottom: 0;
+    vertical-align: middle;
+}
+.navbar-default .navbar-nav>.active>a{
+	color: black;
+	background-color: white;
+}
+.navbar-default .navbar-nav>.active>a:hover{
+	color:#E53831;
+	background-color: white;
+}
